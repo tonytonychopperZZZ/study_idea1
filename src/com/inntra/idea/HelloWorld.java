@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("third hello");
         System.out.println("hot-fix hello");
         System.out.println("merge attach");
+        System.out.println("hot-fix merge attach hello");
     }
 }
