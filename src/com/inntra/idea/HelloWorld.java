@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("hello");
         System.out.println("second hello");
         System.out.println("third hello");
+        System.out.println("hot-fix hello");
     }
 }
