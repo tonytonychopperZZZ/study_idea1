@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("hot-fix hello");
         System.out.println("merge attach");
         System.out.println("hot-fix merge attach hello");
+        System.out.println("github_push_test");
     }
 }
